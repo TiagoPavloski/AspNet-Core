@@ -2,7 +2,7 @@
 
 namespace Eventos.IO.Domain.Eventos.Repository
 {
-    interface IEventoRepository: IRepository<Evento>
+    public interface IEventoRepository: IRepository<Evento>
     {
 
     }
